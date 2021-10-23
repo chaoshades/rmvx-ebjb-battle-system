@@ -1,5 +1,5 @@
 # rmvx-ebjb-battle-system
-Replaces the front-view battle system by a side-view one, with an ATB, custom animations for each action (move, attack, weapon, skill, collapse, etc.)
+Replaces the front-view battle system with a side-view one, with an ATB, custom animations for each action (move, attack, weapon, skill, collapse, etc.), combos between team members, animated enemies and some more. 
 
 ## Table of contents
 
