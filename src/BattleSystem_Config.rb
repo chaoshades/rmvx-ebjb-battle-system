@@ -674,6 +674,7 @@ module EBJB
       1 => CustomWeapon.new("dark_sword_anim.png", 0), 
       3 => CustomWeapon.new("spear_anim.png", 180),
     }
+    WEAPON_ANIMS.default = CustomWeapon.new("sword_anim.png")
     
   end
 end
