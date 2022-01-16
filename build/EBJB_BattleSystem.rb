@@ -357,6 +357,7 @@ module EBJB
       3 => CustomBattler.new(32, 32, 3),
       4 => CustomBattler.new(32, 32, 5)
     }
+    ACTOR_BATTLER_SETTINGS.default = CustomBattler.new(32, 32, 5)
     
     # Enemy Battler Settings
     #   syntax: enemy_id => CustomBattler(width, height, move_speed)
